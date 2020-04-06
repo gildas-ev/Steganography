@@ -32,7 +32,7 @@ This image hides a message, use *decode.py* ;)
 ![Sample](https://github.com/gildas-ev/Steganography/blob/master/Sample_1.png)
 
 ## Author
-Hi ! My name is Gildas, I'm 15 and I have been learning python for 3 years. I am French. I love sciences and I want to become an engineer.
+Hi ! My name is Gildas, I'm 15 and I have been learning programming since 2019. I am French. I love sciences and I want to become an engineer.
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
